@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java and building projects.
 - 📫 you can reach to me via - davkharmansi29@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...coding is cool.
 
 <!---
 mansidavkhar/mansidavkhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
